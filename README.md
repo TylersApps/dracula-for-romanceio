@@ -2,7 +2,7 @@
 
 > A dark theme for [Romance.io](https://romance.io).
 
-![Screenshot](./thumbnail.png)
+![Thumbnail](./thumbnail.png)
 
 ## Install
 
