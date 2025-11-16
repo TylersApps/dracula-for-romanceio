@@ -6,7 +6,7 @@
 
 ## Install
 
-1. Download the open-source Stylus extension for [Google Chrome](https://chromewebstore.google.com/detail/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
+1. Download the open-source Stylus extension for [Google Chrome](https://chromewebstore.google.com/detail/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), or [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/styluswithoutnetwork/hckpgdidacmniaahncgfiihaklijbnhf?hl=en-US).
 2. Install using this link: https://userstyles.world/api/style/25124.user.css
 
 ## Team
